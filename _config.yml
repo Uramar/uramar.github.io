@@ -1,0 +1,23 @@
+# Dependencies
+#markdown:         redcarpet
+#highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            The Lore of Uramar
+description:      'Sumamry and Lore of Uramar'
+tagline: 		      
+baseurl:          /
+
+author:
+  name:           'Jake Hayhurst'
+
+
+paginate:         5
+
+# Custom vars
+version:          1.1.0
+gems: [jekyll-paginate]
