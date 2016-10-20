@@ -1,0 +1,56 @@
+---
+layout: post
+title: Important History
+---
+- Gods
+    - Irtuna - Goddess of time
+    - Aora - Goddess of Light
+    - Uaos - God of wisdom
+    - Fateyr - God of honor
+    - Ehion - Goddess of tranquility
+    - Nonjon - God of life and death
+    - Ovaldir - Corrupted God of the moon light
+- Devils
+    - Lynnaya - Succubus / Incubus mother
+    - Braxynir - Unknown Devil (Unknown meaning you know it exists but not what it does)
+    - Pilan - Devil of Dread
+    - Keeva - Unknown Devil (Unknown meaning you know it exists but not what it does)
+    - Dianor - Unknown Devil (Unknown meaning you know it exists but not what it does)
+    - Cimlhar - Devil of Suffering
+    - Torne - Devil of Wrath
+- Factions / Races  
+    - Dwarven
+        - Small humanoids that are more stonekin than human. They love the cold and are more than willing to take up the reaches of the continent as a result. Their kingdom has a tall tower overlooking the rest of the kingdoms. The king is determined by bloodline.
+    - Orcish
+        - Brutish humanoids that have small tusks protruding from their mouths. Generally have green or brown skin depending on the region they come from. The warlord of the camp is chosen by challenge. Where the challenger must try to break off both tusks of the warlord. The warlord only has to break off one from the challenger. They value tradition over anything.
+    - Aarakocra
+        - The Aarakocra are bird like humanoids that are extremely meticulous. They are noble people who tend to stray away from fighting but are willing if necessary. One of the first people to make peace during the first continental war.
+    - Wood Elf
+        - Most of the Wood Elves are druids due to their strong connection at birth with nature. They live within the trees rather than houses. Most Wood elves take on a spiritual connection with an animal spirit, generally aligning with their personality.
+    - High Elves
+        - The high elves believe in peace above all else. They tend to be very elegant and care about how they appear in front of others. The high elves will always do what they think will bring peace to Uramar. They have a very distinct accent.
+    - Drow
+        - The drow are dark skinned elves that live in close-knit communities. Out of all the elves they are the most numerous. Unlike the high elves they do not care elegancy and "high society" life. The kingdom is ruled by the high priest.
+    - Human
+        - The humans love inventions and seeking wisdom about the world around them. "Hybrid" races, which are considered half human half animal, also are in the human kingdom. The ruler is chosen by consul and is ruler until they pass away. They have very normal names, this includes the hybrids.
+    - Dragon Born
+        - The dragon born race is made up of all "Lizard Folk". They are extremely shamanistic in nature. They believe in rituals which allow them to channel the magic of their ancestors. The Dragon Born races select their ruler based off rituals contacting the ancestors for who should rule.  
+    - Marilith
+        - The maralith are the 6 armed snake like people with the upper body being humanoid and the lower body being that of a snake. The maralith focus on on witting the opponent in battle rather than physical force alone. The Queen is chosen by bloodline. If any one opposes the current queen, she must convince her to step down from being queen. The race is entirely female, dont ask how they reproduce.    
+    - Tiefling
+        - The tieflings were made by the god of the moon light (Ovaldir) who was later corrupted by a devil. Due to this the tieflings face a prejudice from the other factions. While most races and kingdoms recognize the teiflings as allies in the quest for good, some people still hold onto prejudices. The Queen is appointed for life, determined by the previous queen once the previous queen is unfit to rule.
+    - Aasimar
+        - The Aasimar are a minor faction that are humanoids with angel wings. The Aasimar always fall under the good alignment. They are driven to destroy demons and devils in this world. Created by the goddes of light Aora.
+    - Medusas
+        - The Medusas are a minor faction of the Marilith kingdom. These are snake like humanoids that dont have six arms. Instead they have snakes where other attributes might be.  They focus on manipulating others to achieve their goals rather than brute force. The race is entirely female, dont ask how they reproduce.    
+- Major Faction Flowers
+    - Dwarven kingdom are the golden ice flowers.
+    - Orcish races are the blood red flowers.
+    - Aarakocra kingdom with the tall thorny flowers that grow a single petal.
+    - Wood elf kindom represented by the wide jade flowers.
+    - High Elvish kingdom the ocean blue flowers with elongated petals.
+    - Drow Kingdom represented by the small but many purple flowers.
+    - Human Kingdom represented by the gray flowers.
+    - Dragon Born Kingdom represented by the orange flowers that are hot to the touch.
+    - Marilith kingdom is represented by the flowers that have 3 flowers to a stem.
+    - Tiefling Kingdom are brown and golden flowers that are constantly leaking sap.  
