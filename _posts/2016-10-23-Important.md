@@ -2,6 +2,8 @@
 layout: post
 title: Important History
 ---
+- New Major Cities
+    - Runec - The Humans capital city. 
 - Gods
     - Irtuna - Goddess of time
     - Aora - Goddess of Light
@@ -26,19 +28,19 @@ title: Important History
     - Aarakocra
         - The Aarakocra are bird like humanoids that are extremely meticulous. They are noble people who tend to stray away from fighting but are willing if necessary. One of the first people to make peace during the first continental war.
     - Wood Elf
-        - Most of the Wood Elves are druids due to their strong connection at birth with nature. They live within the trees rather than houses. Most Wood elves take on a spiritual connection with an animal spirit, generally aligning with their personality.
+        - Most of the Wood Elves are druids due to their strong connection at birth with nature. They live within the trees rather than houses. Most Wood elves take on a spiritual connection with an animal spirit, generally aligning with their personality. Their king is the high druid.
     - High Elves
         - The high elves believe in peace above all else. They tend to be very elegant and care about how they appear in front of others. The high elves will always do what they think will bring peace to Uramar. They have a very distinct accent.
     - Drow
         - The drow are dark skinned elves that live in close-knit communities. Out of all the elves they are the most numerous. Unlike the high elves they do not care elegancy and "high society" life. The kingdom is ruled by the high priest.
     - Human
-        - The humans love inventions and seeking wisdom about the world around them. "Hybrid" races, which are considered half human half animal, also are in the human kingdom. The ruler is chosen by consul and is ruler until they pass away. They have very normal names, this includes the hybrids.
+        - The humans love inventions and seeking wisdom about the world around them. "Hybrid" races, which are considered half human half animal, also are in the human kingdom. The ruler is chosen by consul and is ruler until they pass away. They have very normal names, this includes the hybrids. Don't ask how the hybrids reproduce.
     - Dragon Born
         - The dragon born race is made up of all "Lizard Folk". They are extremely shamanistic in nature. They believe in rituals which allow them to channel the magic of their ancestors. The Dragon Born races select their ruler based off rituals contacting the ancestors for who should rule.  
     - Marilith
         - The maralith are the 6 armed snake like people with the upper body being humanoid and the lower body being that of a snake. The maralith focus on on witting the opponent in battle rather than physical force alone. The Queen is chosen by bloodline. If any one opposes the current queen, she must convince her to step down from being queen. The race is entirely female, dont ask how they reproduce.    
     - Tiefling
-        - The tieflings were made by the god of the moon light (Ovaldir) who was later corrupted by a devil. Due to this the tieflings face a prejudice from the other factions. While most races and kingdoms recognize the teiflings as allies in the quest for good, some people still hold onto prejudices. The Queen is appointed for life, determined by the previous queen once the previous queen is unfit to rule.
+        - The tieflings were made by the god of the moon light (Ovaldir) who was later corrupted by a devil. Due to this the tieflings face a prejudice from the other factions. While most races and kingdoms recognize the tieflings as allies in the quest for good, some people still hold onto prejudices. The Queen is appointed for life, determined by the previous queen once the previous queen is unfit to rule.
     - Aasimar
         - The Aasimar are a minor faction that are humanoids with angel wings. The Aasimar always fall under the good alignment. They are driven to destroy demons and devils in this world. Created by the goddes of light Aora.
     - Medusas
