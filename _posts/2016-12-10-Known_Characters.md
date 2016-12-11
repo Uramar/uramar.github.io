@@ -2,12 +2,21 @@
 layout: post
 title: Know Characters
 ---
+- # Michelle Hayes
+    -  ![image](/public/images/Characters/MichelleHayes.png)
+    - The young queen of the Human Kingdom. Extremely excitable and can get lost in her studies. Is extremely serious when studying and has a lot of notes. She is an Arch-Mage.  
+- # Hagen Loradove
+    - ![image](/public/images/Characters/HagenLoradove.png)
+    - Paladin that called for Torne in Drow Farmland. Nothing seems to be off and did not appear to be an oath breaker.
+- # Mike
+    - ![image](/public/images/Characters/mike.png)
+    - Old as all hell and probably. Owner of Mike's Magical Mysteries and uses projects to appear at high consul meetings. Extremly powerful wizard according to Michelle. Is extremely good at identifying magical items.
+- # Tyton
+    - ![image](/public/images/Characters/tyton.png)
+    - Owl Aaracockra priest, seems very skilled in magic, Is residing in the Human kingdom as the Aaracockra advisor to the Human Kingdom.
 - # Yhana
     - ![image](/public/images/Characters/yhana.png)
     - Angry, very tall Tiefling that took the vial from the Inn.
-- # Tyton
-    - ![image](/public/images/Characters/tyton.png)
-    - Owl Aaracockra priest, seems very skilled in magic, Accompanied Yhana at the Inn.
 - # Dylan Lee
     - ![image](/public/images/Characters/DylanLee.png)
     - Leader of the Human outpost between the border of the Human and Wood Elf Kingdoms
@@ -20,21 +29,12 @@ title: Know Characters
 - # Raashid Shaheed
     - ![image](/public/images/Characters/Raashid.png)
     - Looks to be more of an inspiring merchant rather than a blacksmith.
-- # Mike
-    - ![image](/public/images/Characters/mike.png)
-    - Old as all hell and probably lost any marbles he had ages ago. Owner of Mike's Magical Mysteries. Is extremely good at identifying magical items.
 - # Sophie Rommel
     - ![image](/public/images/Characters/SophieRommel.png)
     - Rabbit Hybrid that works at Hybrid Armor. Has a cute voice and friendly to those that take an interest in her shop. Sometimes gets lost in daydreaming. Girlfriend of Viktor.
 - # Todd
     - ![image](/public/images/Characters/Todd.png)
     - Apathetic worker at Wizard's World
-- # Michelle Hayes
-    -  ![image](/public/images/Characters/MichelleHayes.png)
-    - The young queen of the Human Kingdom. Extremely excitable and can get lost in her studies. She is an Arch-Mage.  
-- # Hagen Loradove
-    - ![image](/public/images/Characters/HagenLoradove.png)
-    - Paladin that called for Torne in Drow Farmland. Nothing seems to be off and did not appear to be an oath breaker. 
 - # Odoro
     - High druid of the Wood Elf Kingdom, has not been seen since the war broke out.
 - # Cassie
